@@ -9,7 +9,6 @@ For support, email ranbroa.@gmail.com
 first send screenshot 
 
 
-
 <p align="center">
 <img src='https://thumbs.dreamstime.com/b/button-banner-best-seller-round-colored-55942287.jpg' style="height:200px;width:200px;" >
 </p>
